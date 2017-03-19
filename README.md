@@ -59,7 +59,6 @@ I implemented the sliding window approach in the `4th cell` block of the jupyter
 
 #### 2. Show some examples of test images to demonstrate how your pipeline is working.  What did you do to optimize the performance of your classifier?
 
-Some discussion is given around how you improved the reliability of the classifier i.e., fewer false positives and more reliable car detections (this could be things like choice of feature vector, thresholding the decision function, hard negative mining etc.)
 
 The parameters on HOG features can be fine-tuned for better classification as aforementioned above. I also made a mechanism which helps reducing the false positives on the following sections
 
